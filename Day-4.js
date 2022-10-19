@@ -54,6 +54,7 @@ Cuba's flag is https://flagcdn.com/w320/cu.png
 Guadeloupe's flag is https://flagcdn.com/w320/gp.png
 North Macedonia's flag is https://flagcdn.com/w320/mk.png
 Tajikistan's flag is https://flagcdn.com/w320/tj.png
+.....
 */
 
 // Output for 3rd task
@@ -63,4 +64,5 @@ Country's name is Cuba, its region is Americas, its sub-region is Caribbean and 
 Country's name is Guadeloupe, its region is Americas, its sub-region is Caribbean and its population is 400132
 Country's name is North Macedonia, its region is Europe, its sub-region is Southeast Europe and its population is 2077132
 Country's name is Tajikistan, its region is Asia, its sub-region is Central Asia and its population is 9537642
+.....
 */
